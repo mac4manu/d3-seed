@@ -1,0 +1,21 @@
+{
+  "name": "d3-seed",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mac4manu/d3-seed",
+  "authors": [
+    "Mac4Manu <mac4manu@icloud.com>"
+  ],
+  "description": "Sample D3 Application",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
