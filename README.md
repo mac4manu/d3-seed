@@ -6,7 +6,8 @@ Installation
 2. git clone https://github.com/mac4manu/d3-seed.git
 3. cd d3-seed
 4. $ npm install
-5. $ webpack-dev-server
+5. $ webpack
+6. $ webpack-dev-server
 
 Access http://localhost:8080/
 
